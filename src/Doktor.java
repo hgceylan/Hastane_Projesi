@@ -4,7 +4,6 @@ public class Doktor extends VeriBankasi{
     private String unvan;
 
     public Doktor(){
-
     }
     public String getIsim() {
         return isim;
@@ -29,4 +28,5 @@ public class Doktor extends VeriBankasi{
     public void setUnvan(String unvan) {
         this.unvan = unvan;
     }
+
 }
